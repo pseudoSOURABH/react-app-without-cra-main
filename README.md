@@ -1,4 +1,4 @@
-# react-app-without-cra
+# react-app-without: create-react-app script(from screatch)
 
 Step by Step
 1. Make sure node is installed in your system
