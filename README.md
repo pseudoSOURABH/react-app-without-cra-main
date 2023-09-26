@@ -1,4 +1,4 @@
-# react-app-without: create-react-app script(from screatch)
+# react-app-without: create-react-app script(from scratch)
 
 Step by Step
 1. Make sure node is installed in your system
